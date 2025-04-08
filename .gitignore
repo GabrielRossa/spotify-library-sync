@@ -1,0 +1,28 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos de configuração e cache
+.cache/
+config.json
+track_index.json
+
+# Diretórios de saída
+SET_DJ/
+
+# Ambiente virtual (caso use)
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
